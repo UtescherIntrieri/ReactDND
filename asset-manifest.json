@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ReactDND/static/css/main.b21870a0.css",
-    "main.js": "/ReactDND/static/js/main.83c324b2.js",
+    "main.js": "/ReactDND/static/js/main.95a33875.js",
     "static/js/453.b6b23477.chunk.js": "/ReactDND/static/js/453.b6b23477.chunk.js",
     "static/media/favicon-32x32.ico": "/ReactDND/static/media/favicon-32x32.1a58c86b917f788beffd.ico",
     "index.html": "/ReactDND/index.html",
     "main.b21870a0.css.map": "/ReactDND/static/css/main.b21870a0.css.map",
-    "main.83c324b2.js.map": "/ReactDND/static/js/main.83c324b2.js.map",
+    "main.95a33875.js.map": "/ReactDND/static/js/main.95a33875.js.map",
     "453.b6b23477.chunk.js.map": "/ReactDND/static/js/453.b6b23477.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b21870a0.css",
-    "static/js/main.83c324b2.js"
+    "static/js/main.95a33875.js"
   ]
 }
