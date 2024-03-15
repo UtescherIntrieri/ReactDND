@@ -1,16 +1,35 @@
 {
   "files": {
-    "main.css": "/ReactDND/static/css/main.b21870a0.css",
-    "main.js": "/ReactDND/static/js/main.161f57ff.js",
+    "main.css": "/ReactDND/static/css/main.dd38f914.css",
+    "main.js": "/ReactDND/static/js/main.4383c797.js",
     "static/js/453.b6b23477.chunk.js": "/ReactDND/static/js/453.b6b23477.chunk.js",
-    "static/media/favicon-32x32.ico": "/ReactDND/static/media/favicon-32x32.1a58c86b917f788beffd.ico",
+    "static/media/favicon20.ico": "/ReactDND/static/media/favicon20.1a58c86b917f788beffd.ico",
+    "static/media/favicon10.ico": "/ReactDND/static/media/favicon10.4ab6f296c77042acafdc.ico",
+    "static/media/favicon19.ico": "/ReactDND/static/media/favicon19.a40a3cf01316a2eea5f0.ico",
+    "static/media/favicon18.ico": "/ReactDND/static/media/favicon18.10fd79b1259b8eab57a1.ico",
+    "static/media/favicon16.ico": "/ReactDND/static/media/favicon16.04d2583f3ab812ca8607.ico",
+    "static/media/favicon12.ico": "/ReactDND/static/media/favicon12.d421164ea3b421e749f1.ico",
+    "static/media/favicon14.ico": "/ReactDND/static/media/favicon14.12eff3ccb16ab2696a21.ico",
+    "static/media/favicon15.ico": "/ReactDND/static/media/favicon15.cc1d5da7e3b18ee37cd8.ico",
+    "static/media/favicon13.ico": "/ReactDND/static/media/favicon13.65d0499e450ed3f855d2.ico",
+    "static/media/favicon17.ico": "/ReactDND/static/media/favicon17.bd145f329b1cd7075954.ico",
+    "static/media/favicon11.ico": "/ReactDND/static/media/favicon11.131886c8bb83dc3e5625.ico",
+    "static/media/favicon6.ico": "/ReactDND/static/media/favicon6.299dd1c9fddd33a54123.ico",
+    "static/media/favicon8.ico": "/ReactDND/static/media/favicon8.064a0566117231e41d91.ico",
+    "static/media/favicon9.ico": "/ReactDND/static/media/favicon9.8753162b442c54277206.ico",
+    "static/media/favicon2.ico": "/ReactDND/static/media/favicon2.125ecd52eedef0b7dedb.ico",
+    "static/media/favicon3.ico": "/ReactDND/static/media/favicon3.8a4f27528649450a94d6.ico",
+    "static/media/favicon5.ico": "/ReactDND/static/media/favicon5.5befca6322c57a135119.ico",
+    "static/media/favicon4.ico": "/ReactDND/static/media/favicon4.6136a90dd76136469d3b.ico",
     "index.html": "/ReactDND/index.html",
-    "main.b21870a0.css.map": "/ReactDND/static/css/main.b21870a0.css.map",
-    "main.161f57ff.js.map": "/ReactDND/static/js/main.161f57ff.js.map",
+    "static/media/favicon7.ico": "/ReactDND/static/media/favicon7.bd60389fbc3a17491145.ico",
+    "static/media/favicon1.ico": "/ReactDND/static/media/favicon1.dbfb1c8414a593836e48.ico",
+    "main.dd38f914.css.map": "/ReactDND/static/css/main.dd38f914.css.map",
+    "main.4383c797.js.map": "/ReactDND/static/js/main.4383c797.js.map",
     "453.b6b23477.chunk.js.map": "/ReactDND/static/js/453.b6b23477.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b21870a0.css",
-    "static/js/main.161f57ff.js"
+    "static/css/main.dd38f914.css",
+    "static/js/main.4383c797.js"
   ]
 }
